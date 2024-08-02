@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "product": "mailappliasdaz",
+      "price": "34sadawewe",
+      "id": "3a18"
+    },
+    {
+      "id": "5a6e",
+      "product": "maguppli",
+      "price": "12"
+    },
+    {
+      "id": "ecdd",
+      "product": "jamela123",
+      "price": "345"
+    },
+    {
+      "id": "5ea7",
+      "product": "APPPle",
+      "price": "2"
+    },
+    {
+      "id": "7e26",
+      "product": "banana",
+      "price": "34"
+    },
+    {
+      "id": "ba7e",
+      "product": "grapses",
+      "price": "34"
+    },
+    {
+      "id": "320a",
+      "product": "sugar",
+      "price": "34"
+    }
+  ]
+}
